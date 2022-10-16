@@ -24,6 +24,11 @@ https://www.data.go.kr/index.do
 https://www.bigdata-map.kr
 ```
 
+### [모두의 말뭉치](https://corpus.korean.go.kr/main.do)
+```
+https://corpus.korean.go.kr/main.do
+```
+
 
 
 ## 미국 데이터 모음
