@@ -24,11 +24,6 @@ https://www.data.go.kr/index.do
 https://www.bigdata-map.kr
 ```
 
-### 
-```
-
-```
-
 
 
 ## 미국 데이터 모음
@@ -60,32 +55,37 @@ https://archive.ics.uci.edu/ml/datasets.php
 https://www.earthdata.nasa.gov
 ```
 
-### 
+### [WHO Data Platform](https://platform.who.int/data/)
+```
+https://platform.who.int/data/
 ```
 
+### [Wikimedia Downloads](https://dumps.wikimedia.org)
+위키피디아
+```
+https://dumps.wikimedia.org
 ```
 
-### 
+### [FBI Crime Data Explorer](https://crime-data-explorer.fr.cloud.gov/pages/home)
+범죄 관련 데이터
+```
+https://crime-data-explorer.fr.cloud.gov/pages/home
 ```
 
+### [Quandl](https://data.nasdaq.com/search)
+금융 데이터(대부분 유료)
+```
+https://data.nasdaq.com/search
 ```
 
-### 
+### [Academic Torrents](https://academictorrents.com)
+과학 논문에서 사용되는 데이터셋을 공유하는 프로그램 토렌트 seed를 통해 P2P형식으로 공유
+```
+https://academictorrents.com
 ```
 
+### [data word](https://data.world)
+데이터를 공유하고 다운로드 할 수 있음
 ```
-
-### 
-```
-
-```
-
-### 
-```
-
-```
-
-### 
-```
-
+https://data.world
 ```
