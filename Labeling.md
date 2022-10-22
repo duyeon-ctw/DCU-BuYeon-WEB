@@ -1,4 +1,4 @@
-## [labelme](https://github.com/mepotts/Pill-Detection)
+## [labelme](https://github.com/heartexlabs/label-studio/)
 ## [labelme 설치방법](https://velog.io/@hssarah/M1-Macbook-labelimg-%EC%84%A4%EC%B9%98)
 
 
